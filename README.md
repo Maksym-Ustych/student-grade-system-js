@@ -1,4 +1,4 @@
-Student Grade System (JavaScript)
+Student Grade System
 
 Практична робота №5  
 Тема: Об'єкти  
